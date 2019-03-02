@@ -20,6 +20,8 @@
     <div class="row mt-1 back-clr justify-content-center align-items-center">
       <p class="my-auto d-inline-block align-middle p-2">why should you choose us</p>
     </div>
+    <!--new row-->
+    <img src="/icons/findFriends.svg">
   </div>
 </template>
 
